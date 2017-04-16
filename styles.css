@@ -3,11 +3,11 @@ body{
 	font-family: cursive;
 }
 #left_bar{
-	width: 25%;
+	width: 15%;
 	float: left;
 }
 #right_bar{
-	width: 75%;
+	width: 85%;
 	float: right;
 }
 .side_bar{
